@@ -12,7 +12,7 @@ POSIX-compliant operating system (eg Linux)
 Clone the repository
 
 ```bash
-  git clone https://github.com/agrawalshivang/Message-Oriented-TCP
+  git clone https://github.com/codema09/Message-Oriented-TCP
 ```
 
 Run the following in order on terminal in the project directory
